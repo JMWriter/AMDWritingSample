@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Rules
+# A Guide To Tic-Tac-Toe
 The purpose of this document is to describe the game of Tic-Tac-Toe. Below there will be sections for rules, conditions to win Tic-Tac-Toe, and an image of a common Tic-Tac-Toe game.
 
 <h2>Win Condition</h2>
